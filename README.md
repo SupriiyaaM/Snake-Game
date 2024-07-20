@@ -1,5 +1,7 @@
 # Snake-Game
 
+https://github.com/user-attachments/assets/20731b06-aa86-4f2a-986c-d0dda1c400ed
+
 This project demonstrates how to teach an AI to play the classic game of Snake using reinforcement learning. Built with PyTorch and Pygame, the AI learns to navigate and grow within the game environment through trial and error, maximizing its score over time.
 
 Project Overview :
